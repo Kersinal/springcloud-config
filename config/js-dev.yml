@@ -1,2 +1,3 @@
 config:
-  sfh
+  info: sdf
+  version: 7.0
