@@ -1,0 +1,4 @@
+config:
+  name: user-service-config
+  profile: dev
+  version: 1.0

@@ -1,0 +1,5 @@
+config:
+  info: c.biancheng.net
+  version: 5.0
+server:
+  port: 3365

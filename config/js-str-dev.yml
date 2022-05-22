@@ -1,0 +1,3 @@
+config:
+  info: config/js-dev.yml
+  version: 7.0
